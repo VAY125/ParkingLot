@@ -1,3 +1,5 @@
+package ParkingSpotManagers;
+
 import ParkingSpots.ParkingSpot;
 
 import java.util.List;
