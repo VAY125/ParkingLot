@@ -7,6 +7,9 @@ import java.util.List;
 public class ParkingSpotManager {
     List<ParkingSpot> parkingSpotList;
 
+    public ParkingSpotManager(){
+
+    }
     public ParkingSpotManager(List<ParkingSpot> parkingSpotList){
         this.parkingSpotList= parkingSpotList;
     }
